@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 0;
+}
+
+.userNavigation {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+}
