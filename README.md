@@ -1,11 +1,16 @@
-# Pets Home
+# Home paws
 
-This project is a web application for search home or hotel for pets.
+🐾 Home paws — Lost & Found Pet Aggregator
+
+Home paws is a web application that brings together all lost and found pet listings in one place.
+Its goal is to help people reunite with their pets faster — without having to search through multiple websites and social networks.
 
 ## Features
 
-- Search home or hotel for pets
-- Filter by location, price, and pet-friendly amenities
+- Post lost pet or found pet listings
+- Browse all active listings with filters and search
+- View detailed pet pages with full information
+- Use matching filters to find potential owners or lost pets
 
 ## Tech Stack
 
@@ -16,8 +21,16 @@ This project is a web application for search home or hotel for pets.
 - React Hook Form
 - Redux Toolkit
 
-## Deploy on Vercel
+## 🚀 Getting Started
+1. Clone the repository
+git clone https://github.com/your-username/pets-home.git
+cd pets-home
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. Install dependencies
+npm install
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3. Start the development server
+npm run dev
+
+### Author
+Yanina Shpak — Frontend Developer passionate about creating meaningful and human-centered projects.
