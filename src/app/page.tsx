@@ -8,7 +8,7 @@ import SearchWidget from "@/components/search-widget/SearchWidget";
 export default async function Home() {
   const cats  = await getPetsList() || [];
   return (
-    <main>
+    <main className={styles.root}>
       <div className={styles.mainWrapper}>
         <PromoBlock />
         <SearchWidget/>
