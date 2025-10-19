@@ -7,22 +7,6 @@
   opacity: 0.8;
 }
 
-.promo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 20%;
-}
-
-.promoTitle {
-  font-size: 52px;
-  color: #fff;
-}
-
-.promoText {
-  font-size: 16px;
-}
-
 /* .page {
   --gray-rgb: 0, 0, 0;
   --gray-alpha-200: rgba(var(--gray-rgb), 0.08);
