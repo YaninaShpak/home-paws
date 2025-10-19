@@ -23,14 +23,17 @@ Its goal is to help people reunite with their pets faster — without having to 
 
 ## 🚀 Getting Started
 1. Clone the repository
-git clone git@github.com:YaninaShpak/home-paws.git
-cd home-paws
+
+`git clone git@github.com:YaninaShpak/home-paws.git`
+`cd home-paws`
 
 2. Install dependencies
-npm install
+
+`npm install`
 
 3. Start the development server
-npm run dev
+
+`npm run dev`
 
 ### 🍀 Author
 Yanina Shpak
