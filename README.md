@@ -23,8 +23,8 @@ Its goal is to help people reunite with their pets faster — without having to 
 
 ## 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/pets-home.git
-cd pets-home
+git clone git@github.com:YaninaShpak/home-paws.git
+cd home-paws
 
 2. Install dependencies
 npm install
