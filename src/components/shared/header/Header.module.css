@@ -10,3 +10,16 @@
   align-items: center;
   column-gap: 20px;
 }
+
+.link {
+  transition: all ease 0.3s;
+}
+
+.link:hover {
+  color: var(--accentprimary);
+}
+
+.link.active {
+  color: var(--accentprimary);
+  cursor: default;
+}
