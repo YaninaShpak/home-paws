@@ -10,10 +10,9 @@ const Card = ({ cat }: CardProps) => {
         <Image
           className={styles.image}
           src={`/images/${photo}`}
-          alt="woman and cat"
+          alt={`${type} ${name}`}
           width="1536"
           height="1024"
-          priority
         />
       </div>
       <div className={styles.card__info}>
