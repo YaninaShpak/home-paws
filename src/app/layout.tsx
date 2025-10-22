@@ -24,11 +24,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${nunito.variable}`}>
-        <div className="container">
-          <Header />
+        <div className="layoutWrapper">
+          <div className="container">
+            <Header />
+          </div>
+          {children}
+          <Footer />
         </div>
-        {children}
-        <Footer />
       </body>
     </html>
   );
